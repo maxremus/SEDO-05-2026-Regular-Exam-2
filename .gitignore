@@ -1,0 +1,44 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Test Results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish output
+publish/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
